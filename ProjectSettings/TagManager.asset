@@ -7,6 +7,7 @@ TagManager:
   - EmptySpot
   - OtherCar
   - Wall
+  - FullSpot
   layers:
   - Default
   - TransparentFX

@@ -40,12 +40,12 @@ public class ShuffleScript : MonoBehaviour
     }
 
     // To test the shuffle in the Unity editor
-    private void Update()
-    {
-        // Press the space bar to shuffle the spots
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            ShuffleParkingSpots();
-        }
-    }
+    // private void Update()
+    // {
+    //     // Press the space bar to shuffle the spots
+    //     if (Input.GetKeyDown(KeyCode.Space))
+    //     {
+    //         ShuffleParkingSpots();
+    //     }
+    // }
 }
